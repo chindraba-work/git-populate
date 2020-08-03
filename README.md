@@ -110,7 +110,9 @@ Version numbers take the form X.Y.Z where X is the major version, Y is the minor
 The MIT license applies to all the code within this repository.
 
 Copyright © 2020  Chindraba (Ronald Lamoreaux)
-                  <[projects@chindraba.work](mailto:projects@chindraba.work?subject=Project git-populate)>
+
+   <[projects@chindraba.work](mailto:projects@chindraba.work?subject=Project%20git-populate)>
+
 - All Rights Reserved
 
 ### The MIT License
